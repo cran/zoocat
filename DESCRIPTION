@@ -1,7 +1,7 @@
 Package: zoocat
 Type: Package
 Title: 'zoo' Objects with Column Attributes
-Version: 0.2.0
+Version: 0.2.0.1
 Date: 2016-11-10
 Authors@R: person("Ran-Ran", "He", email = "heranran2006@163.com",
   role = c("aut", "cre"))
@@ -17,6 +17,6 @@ URL: https://github.com/ran-ran/zoocat
 RoxygenNote: 5.0.1
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2016-11-10 11:19:39 UTC; heran
+Packaged: 2018-09-11 09:20:50 UTC; hornik
 Repository: CRAN
-Date/Publication: 2016-11-10 13:43:25
+Date/Publication: 2018-09-11 09:37:51 UTC

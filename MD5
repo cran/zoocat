@@ -1,5 +1,5 @@
-b41e2363500396715f1065c1626ddc6b *DESCRIPTION
-313a7498cdae0c5db3b36b5826217926 *NAMESPACE
+adbe7819017a24860cc46dc7f2febbe4 *DESCRIPTION
+3af727a35c6a190d97c7a8ab7b2edfa3 *NAMESPACE
 f59c874fd7804698f4c15e783f883b9b *R/Ops.R
 a1efb2349c4b78baaa58bfd7fbc033a4 *R/aggregate_col.R
 12d942c8a420e3e5cfe5dcc864f00399 *R/apply_col.R
@@ -33,7 +33,7 @@ baae4dee119135c0978435e8393fd568 *R/zoocat.R
 4e514f9e1811b61a2568666360236636 *R/zoocat_other_methods.R
 4470ef8893dac79c5c06c3ccf0ce4bf7 *R/zoomly.R
 787e145b6b249a384568eebf83c10f39 *build/vignette.rds
-31ff60c09526e9df34b4d1fceb02a1c0 *data/tropSST.rda
+fd84f8c98befc0a02af8a3f455e620b8 *data/tropSST.rda
 c2b3190109fa7592ab961642bc49a392 *inst/doc/my-vignette.R
 5ae1f49eb6a902892b312f858bdd6087 *inst/doc/my-vignette.Rmd
 2fc698e8983cc63ba47ee99a04cb9c95 *inst/doc/my-vignette.html
